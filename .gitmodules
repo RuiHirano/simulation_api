@@ -1,0 +1,9 @@
+[submodule "node"]
+	path = node
+	url = https://github.com/synerex/synerex_nodeapi.git
+[submodule "synerex"]
+	path = synerex
+	url = https://github.com/synerex/synerex_api.git
+[submodule "simulation"]
+	path = simulation
+	url = https://github.com/RuiHirano/api_simulation.git
